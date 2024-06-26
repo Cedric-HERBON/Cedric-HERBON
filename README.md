@@ -11,7 +11,7 @@ My name is Cédric, i'm from Strasbourg 🥨 in France
 - 👯 I’m looking to collaborate on several project in Web Development
 <!--
 - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about what i'm doing now 👀
+- 💬 Ask me about what i'm doing right now 👀
 <!--
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
