@@ -1,5 +1,5 @@
 
-# 👋 Salut, je suis Cédric HERBON !
+# 👋 Hello !
 
 ## 🚀 Concepteur Développeur d'Applications | Transition Médical → Tech
 
