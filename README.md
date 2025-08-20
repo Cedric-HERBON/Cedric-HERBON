@@ -1,7 +1,7 @@
 
 # 👋 Hello !
 
-## 🚀 Concepteur Développeur d'Applications | Transition Médical → Tech
+## 🚀 Developpeur Full-stack | Transition Médical → Tech
 
 > 🔍 **En recherche active** d'opportunités CDI/CDD
 ---
@@ -28,18 +28,20 @@ Framework CSS                              GitHub Actions          Nginx, Traefi
 
 ### 🎓 Formation & Certifications
 
-- 🏆 **Concepteur Développeur d'Applications (Bac+4)** - O'Clock (2025)
-- 📚 **FOAD Licence Informatique** - CNAM Grand-Est (2021-2024)
-- 🏥 **15 ans d'expérience** - Imagerie Médicale & Modélisation 3D
-- 🗣️ **Anglais B2** - Communication technique internationale
+- **Concepteur Développeur d'Applications (Bac+4 - RNCP 6)** - Obtenu en 2025
+- **FOAD Licence Informatique** - CNAM Grand-Est (2021-2024)
+- **15 ans d'expérience** - Imagerie Médicale & Modélisation 3D
+- **Anglais B2** - Communication technique internationale
 
 ### 💡 Soft Skills
 
-- **🤝 Collaboration** : 15 ans de travail en équipe médicale pluridisciplinaire
-- **🔍 Résolution de problèmes** : Diagnostic médical → Debug de code
-- **⚡ Adaptabilité** : Transition réussie entre différent domaines d'expertise
-- **📊 Gestion du temps** : Environnements sous pression et deadlines critiques
-- **💬 Communication** : Présentations en congrès et formations techniques
+- **Collaboration** : 15 ans de travail en équipe médicale pluridisciplinaire
+- **Résolution de problèmes** : Diagnostic médical → Debug de code
+- **Adaptabilité** : Transition réussie entre différent domaines d'expertise
+- **Gestion du temps** : Environnements sous pression et deadlines critiques
+- **Communication** : Présentations en congrès et formations techniques
+
+---
 
 ### 🌟 Projets
 
@@ -63,21 +65,18 @@ notification en cas de dépensements des budgets mis en place.
 - API sécurisée avec authentification JWT
 - **Impact :** Optimisation du workflow médical
 
-### 🏥➡️💻 Ma Valeur Ajoutée
+---
+
+### 🏥➡️💻 Valeur Ajoutée
 
 **🔬 Rigueur Scientifique**
 - 15 ans d'analyse d'images médicales multi-modalité
 - Expertise en modélisation 3D et segmentation de structures
-- Habitude des environnements critiques
 
 **🎯 Vision Produit**
 - Expérience utilisateur dans le domaine médical
 - Compréhension des besoins métier complexes
 - Tests logiciels et validation d'applications en production
-
-**🚀 Transition Réussie**
-- Formation intensive
-- Certification Bac+4 Concepteur Développeur d'Applications (Avril 2025)
 
 ---
 
