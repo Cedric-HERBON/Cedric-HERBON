@@ -47,7 +47,7 @@ Framework CSS                              GitHub Actions          Nginx, Traefi
 
 #### 🏥 [Application de gestion de finance]
 **Gestion des finances personnelles** | `Nginx` `Docker` `React` `Typescript` `Express` `Node.js` `PostgreSQL`
-- projet collaboratif (3 étudiants), présenté à la certification,
+- Projet collaboratif (3 étudiants), présenté à la certification,
 - Tableau de bord utilisateur et gestion de budgets,
 - API sécurisée avec authentification JWT,
 - **Fonctionnalités :** Optimisation de la gestion des budgets personnel, et visualisation simplifiée des dépenses et revenus,
