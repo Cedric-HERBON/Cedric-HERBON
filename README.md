@@ -45,7 +45,7 @@ Framework CSS                              GitHub Actions          Nginx, Traefi
 
 ### 🌟 Projets
 
-#### 🏥 [Application de gestion de finance]
+#### 🏥 Application de gestion de finance
 **Gestion des finances personnelles** | `Nginx` `Docker` `React` `Typescript` `Express` `Node.js` `PostgreSQL`
 - Projet collaboratif (3 étudiants), présenté à la certification,
 - Tableau de bord utilisateur et gestion de budgets,
@@ -53,13 +53,13 @@ Framework CSS                              GitHub Actions          Nginx, Traefi
 - **Fonctionnalités :** Optimisation de la gestion des budgets personnel, et visualisation simplifiée des dépenses et revenus,
 notification en cas de dépensements des budgets mis en place.
 
-#### 💼 [Application de pronostic avant naissance]
+#### 💼 Application de pronostic avant naissance
 **Outil de gestion de projets** | `Traefik` `Docker` `React` `Typescript` `Express` `Node.js` `PostgreSQL`
 - Application full-stack avec front-end SPA et back-end API
 - Architecture scalable
 - **Fonctionnalités :** tableaux de bord et graphiques, pronostic et mise à jour de pronostic.
 
-#### 🏥 [Gestionnaire de rendez-vous médicaux] (en cours de développement)
+#### 🏥 Gestionnaire de rendez-vous médicaux (en cours de développement)
 **Gestion de données patients** | `React` `Typescript` `Express` `Node.js` `PostgreSQL`
 - Interface intuitive pour professionnels de santé
 - API sécurisée avec authentification JWT
