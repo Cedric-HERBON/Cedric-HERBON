@@ -1,20 +1,20 @@
 
 # 👋 Hello !
 
-## 🚀 Developpeur Full-stack | Transition Médical → Tech
+## Developpeur Full-stack | Transition Médical → Tech
 
 > 🔍 **En recherche active** d'opportunités CDI/CDD
 ---
 
-### 💼 Mon Parcours
+### Mon Parcours
 
 **Du secteur médical au développement logiciel**
 Issu du domaine de la santé et du numérique, et passionné par les nouvelles technologies.
 Je suis à la recherche d’un poste dans le domaine de la conception et du développement d’applications.
 
-**🎯 Objectif :** Intégrer une équipe dynamique où mon expérience multisectorielle et mon adaptabilité permettront de contribuer à des projets innovants.
+** Objectif :** Intégrer une équipe dynamique où mon expérience multisectorielle et mon adaptabilité permettront de contribuer à des projets innovants.
 
-### 🛠️ Stack Technique
+### Stack Technique
 
 ```text
 Frontend              Backend               Données & Outils        Spécialisations
@@ -26,14 +26,14 @@ React                GraphQL               Git & GitHub            CI/CD, Docker
 Framework CSS                              GitHub Actions          Nginx, Traefik
 ```
 
-### 🎓 Formation & Certifications
+### Formation & Certifications
 
 - **Concepteur Développeur d'Applications (Bac+4 - RNCP 6)** - Obtenu en 2025
 - **FOAD Licence Informatique** - CNAM Grand-Est (2021-2024)
 - **15 ans d'expérience** - Imagerie Médicale & Modélisation 3D
 - **Anglais B2** - Communication technique internationale
 
-### 💡 Soft Skills
+### Soft Skills
 
 - **Collaboration** : 15 ans de travail en équipe médicale pluridisciplinaire
 - **Résolution de problèmes** : Diagnostic médical → Debug de code
@@ -43,9 +43,9 @@ Framework CSS                              GitHub Actions          Nginx, Traefi
 
 ---
 
-### 🌟 Projets
+### Projets
 
-#### 🏥 Application de gestion de finance
+#### Application de gestion de finance
 **Gestion des finances personnelles** | `Nginx` `Docker` `React` `Typescript` `Express` `Node.js` `PostgreSQL`
 - Projet collaboratif (3 étudiants), présenté à la certification,
 - Tableau de bord utilisateur et gestion de budgets,
@@ -53,13 +53,13 @@ Framework CSS                              GitHub Actions          Nginx, Traefi
 - **Fonctionnalités :** Optimisation de la gestion des budgets personnel, et visualisation simplifiée des dépenses et revenus,
 notification en cas de dépensements des budgets mis en place.
 
-#### 💼 Application de pronostic avant naissance
+#### Application de pronostic avant naissance
 **Outil de pronostic** | `Traefik` `Docker` `React` `Typescript` `Express` `Node.js` `PostgreSQL`
 - Application full-stack avec front-end SPA et back-end API
 - Vue partagée des statistiques globales
 - **Fonctionnalités :** tableaux de bord et graphiques, pronostic et mise à jour de pronostic.
 
-#### 🏥 Gestionnaire de rendez-vous médicaux (en cours de développement)
+#### Gestionnaire de rendez-vous médicaux (en cours de développement)
 **Gestion de données et gestion des interactions** | `React` `Typescript` `Express` `Node.js` `PostgreSQL`
 - Interface intuitive pour professionnels de santé et patients
 - API sécurisée avec authentification JWT
@@ -67,7 +67,7 @@ notification en cas de dépensements des budgets mis en place.
 
 ---
 
-### 🏥➡️💻 Valeur Ajoutée
+### Valeur Ajoutée
 
 **🔬 Rigueur Scientifique**
 - 15 ans d'analyse d'images médicales multi-modalité
